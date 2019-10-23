@@ -11,4 +11,5 @@ Simplified way of learning python language
 &#10023; <a href="https://realpython.com/python3-object-oriented-programming/#classes-in-python">Object-Oriented Programming (OOP) in Python 3</a>, by <a href="https://realpython.com/">Real Python</a>
 ## Main TextBooks
 <img src="https://github.com/Erfaan-Rostami/A-Practical-Introduction-to-Python-Programming/blob/master/python%20for%20data%20analysis.jpg"  title="Python for data analysis" height="140" width="120"/>
+
 ## Libraries 
