@@ -17,4 +17,4 @@ Simplified way of learning python language
 
 &#9733; <a href="https://datatofish.com/import-csv-file-python-using-pandas/">How to Import a CSV File into Python using Pandas</a>
 
-&#9733; <a href="">scikit-learn</a>
+&#9733; <a href="">scikit-learn</a>(Simple and efficient tools for data mining and data analysis)
