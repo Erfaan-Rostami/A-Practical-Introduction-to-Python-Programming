@@ -19,4 +19,4 @@ Simplified way of learning python language
 
 &#9733; <a href="">scikit-learn</a> (Simple and efficient tools for data mining and data analysis)
 
-&#9733; <a href="https://pythonprogramming.net/python-3-os-module/">OS Module</a> (The os module is a part of the standard library, or stdlib, within Python 3)
+&#9733; <a href="https://pythonprogramming.net/python-3-os-module/">OS Module</a> or <a href="https://www.pythonforbeginners.com/os/pythons-os-module">Python's OS Module</a> (The os module is a part of the standard library, or stdlib, within Python 3)
