@@ -5,7 +5,7 @@ Simplified way of learning python language
 - Welcome to <a href="https://www.python.org/">Python</a>
 - 44 videos(YouTube), <a href="https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&app=desktop">Python for Beginners</a>, made by Microsoft
 - <a href="https://www.teachingpython.fm/page/2">Teaching Python</a> ;26 episodes by Kelly and Sean(Cool!)
-- 
+- <a href="https://www.kaggle.com/learn/python"></a>
 ## Python Object Oriented
 &#10023; A good <a href="http://www.tahlildadeh.com/Files/Articles/18.%20Python%20object-oriented.pdf">note</a> about "python object oriented"(Farsi). 
 
