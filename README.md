@@ -7,7 +7,7 @@ Simplified way of learning python language
 - <a href="https://www.teachingpython.fm/page/2">Teaching Python</a> ;26 episodes by Kelly and Sean(Cool!)
 - Learn the most important language for data science. <a href="https://www.kaggle.com/learn/python">(Kaggle)</a>
 - <a href="https://machinelearningmastery.com/how-to-load-convert-and-save-images-with-the-keras-api/">How to Load, Convert, and Save Images With the Keras API</a> by <a href="https://machinelearningmastery.com">Jason Brownlee</a>
-- <a href=""></a>
+- 8 Best<a href=""> Python Cheat Sheets for Beginners and Intermediate Learners</a>for Beginners and Intermediate Learners
 ## Python Object Oriented
 &#10023; A good <a href="http://www.tahlildadeh.com/Files/Articles/18.%20Python%20object-oriented.pdf">note</a> about "python object oriented"(Farsi). 
 
